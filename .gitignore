@@ -1,4 +1,5 @@
-data/
+data/rgb_png/
+data/depth_png/
 build/
 bin/
 lib/
