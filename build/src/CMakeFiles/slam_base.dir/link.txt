@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libslam_base.a  CMakeFiles/slam_base.dir/slamBase.cpp.o
+/usr/bin/ranlib ../../lib/libslam_base.a
